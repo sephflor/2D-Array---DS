@@ -1,1 +1,1 @@
-# 2D-Array---DS
+# 2D-Array---DS.This C# code calculates the maximum hourglass sum in a 6×6 2D array by iterating over all possible hourglass starting positions. Each hourglass sum is computed, and the largest sum is returned. The Main method reads the array, calls hourglassSum, and writes the result to the output.
